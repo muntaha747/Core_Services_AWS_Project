@@ -1,3 +1,9 @@
+## Architecture Diagram
+
+![AWS Architecture Diagram](diagrams/aws-architecture.png)
+
+
+
 # Core_Services_AWS_Project
 
 1. IAM & Access Control Automation
@@ -133,6 +139,4 @@ Why This Project Matters
 
 This project reflects real-world DevOps practices, focusing not just on resource creation, but on security, automation, and maintainability, aligning with modern cloud engineering standards.
 
-## Architecture Diagram
 
-![AWS Architecture Diagram](diagrams/aws-architecture.png)
